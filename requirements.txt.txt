@@ -1,0 +1,6 @@
+libraries needed to be installed:
+
+streamlit
+pandas
+scikit-learn
+plotly
